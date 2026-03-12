@@ -1,5 +1,5 @@
 # week4-ai-assignment
-Name: Your Name
+Name: blessy muigai
 
 ## Question 1
 Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn.
